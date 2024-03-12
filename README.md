@@ -14,3 +14,7 @@ This is my final try to learn complete web developement if this fail then I quit
 
 Always try to build layout with grid. In tailwind "sm:[property]" is use to make above smaller screen. Tailwind's default or first preference is mobile approach.
 ![fun with tailwind](https://github.com/PalSagar30/Web-Dev-Projects/assets/135932651/ce92aed6-fc57-4e98-b7e5-313819202bbf)
+
+
+# Day-3,Day-4,Day-5
+## Learn Tailwind from College Wallah by Hitesh Sir
