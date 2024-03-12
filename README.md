@@ -18,3 +18,5 @@ Always try to build layout with grid. In tailwind "sm:[property]" is use to make
 
 # Day-3,Day-4,Day-5
 ## Learn Tailwind from College Wallah by Hitesh Sir
+
+Here I am learn and practice basic tailwind.
